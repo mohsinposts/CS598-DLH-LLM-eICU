@@ -1,0 +1,4 @@
+setting,train_source,test_source,auc,auprc,mean_kl_vs_real
+real_train_real_test,real,real,0.6329809725158562,0.13227290693385071,0.0
+synth_baseline_train_real_test,synthetic_baseline,real,0.6604651162790698,0.18589032789831222,2.8248075281463203
+synth_privacy_train_real_test,synthetic_privacy,real,0.7120507399577166,0.2894544561189666,1.8924026999576462
